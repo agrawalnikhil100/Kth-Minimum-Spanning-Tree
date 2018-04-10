@@ -11,23 +11,6 @@ public class a1 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class edge{
     public int u;
     public int v;
