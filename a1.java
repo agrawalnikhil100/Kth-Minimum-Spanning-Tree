@@ -1,7 +1,5 @@
 import java.util.*;
 
-
-
 public class a1 {
     public static void main(String[] args) {
        System.out.println("Hello, World Again we meet");
@@ -9,28 +7,6 @@ public class a1 {
     }
 }
 
-
-
-<<<<<<< HEAD
-
-
-//hey raviii khannawalia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> 4b79c94ffb309c579839c78d7958f8f37ceaa4f0
 class edge{
     public int u;
     public int v;
